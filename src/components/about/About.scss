@@ -1,0 +1,113 @@
+.about-container{
+  min-height: calc(100vh - 100px);
+  display: flex;
+  flex-direction: column;
+  .about-photo{
+    width: 100%;
+    display: flex;
+    margin-top: 100px;
+    .about-content{
+      width: 75vw;
+      max-width: 470px;
+      height: 45vw;
+      max-height: 300px;
+      background: var(--light-pink);
+      margin: auto;
+      display: flex;
+      flex-direction: column;
+      position: relative;
+      h1{
+        margin: auto auto 10px 10px;
+        letter-spacing: 5px;
+        color: var(--dark-pink);
+        font-size: 4vw;
+        span{
+          font-weight: 300;
+        }
+      }
+      .about-carre-deco{
+        width:20px;
+        height: 20px;
+        background: var(--medium-pink);
+        margin-right: auto;
+      }
+      img{
+        position: absolute;
+        width: 95%;
+        left: 15%;
+        top: -20%;
+      }
+    }
+  }
+  .about-description{
+    max-width: 470px;
+    margin: 30px auto;
+    padding: 15px;
+    color: var(--grey);
+  }
+}
+
+@media screen and (min-width: 760px){
+  .about-container{
+    .about-photo{
+      .about-content{
+        max-height: 330px;
+        h1{
+          font-size: 25px;
+        }
+        img{
+          width: 110%;
+        }
+        .about-carre-deco{
+          width:30px;
+          height: 30px;
+        }
+      }
+    }
+  }
+}
+
+@media screen and (min-width: 1000px){
+  .about-container{
+    flex-direction: row;
+    .about-photo{
+      width: 60%;
+      margin-right: 110px;
+    }
+    .about-description{
+      margin: auto;
+    }
+  }
+}
+
+@media screen and (min-width: 1250px){
+  .about-container{
+    .about-photo{
+      margin-right: 0;
+    }
+    .about-description{
+      margin-left: 0;
+    }
+  }
+}
+
+@media screen and (min-width: 1600px){
+  .about-container{
+    .about-photo{
+      .about-content{
+        max-width: 600px;
+        max-height: 420px;
+        h1{
+          font-size: 25px;
+        }
+        img{
+          width: 110%;
+        }
+        .about-carre-deco{
+          width:40px;
+          height: 40px;
+        }
+      }
+    }
+  }
+}
