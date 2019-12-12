@@ -1,0 +1,28 @@
+footer{
+  height: 55px;
+  background: var(--light-pink);
+  display: flex;
+  flex-direction: column;
+  padding: 10px 0;
+  *{
+    margin: auto;
+  }
+  span{
+    color: var(--dark-pink);
+    margin-top: 2px;
+  }
+  div{
+    margin-bottom: 2px;
+    display: flex;
+    align-items: center;
+    a{
+      img{
+        margin: auto 5px;
+        width: 20px;
+      }
+      &:nth-child(2) img{
+        width: 26px;
+      }
+    }
+  }
+}
