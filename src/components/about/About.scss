@@ -1,7 +1,7 @@
 .about-container{
-  min-height: calc(100vh - 100px);
   display: flex;
   flex-direction: column;
+  margin-top: 50px;
   .about-photo{
     width: 100%;
     display: flex;
@@ -49,6 +49,8 @@
 
 @media screen and (min-width: 760px){
   .about-container{
+    min-height: calc(100vh - 75px);
+    margin-top: 0;
     .about-photo{
       .about-content{
         max-height: 330px;
