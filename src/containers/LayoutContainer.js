@@ -1,16 +1,14 @@
 import React from 'react';
-import Navigation from '../components/navigation/Navigation';
-import About from '../components/about/About';
-import Works from '../components/works/Works';
+import PropTypes from 'prop-types';
 
-const LayoutContainer = () => (
+const LayoutContainer = ({ children }) => (
   <>
-    <Navigation />
-    <main>
-      <About />
-      <Works />
-    </main>
+    {children}
   </>
 );
+
+LayoutContainer.propTypes = {
+  children: PropTypes.node.isRequired,
+};
 
 export default LayoutContainer;
