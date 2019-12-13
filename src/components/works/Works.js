@@ -8,7 +8,7 @@ import Nurse from '../../assets/img/hopital.jpg';
 
 const Works = () => (
   <>
-    <h2 className="works-main-title">Expériences professionnelles</h2>
+    <h2 className="works-main-title" id="works">Expériences professionnelles</h2>
     <div className="works-container">
       <NavLink to="/ehpad" className="works" style={{ backgroundImage: `url(${OldHelp})` }}>
         <div className="works-vignette">

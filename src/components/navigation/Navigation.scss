@@ -1,7 +1,8 @@
 nav{
   height: 55px;
   padding: 10px 0;
-  display: flex; 
+  display: flex;
+  z-index: 1000;
   div{
     width: 100%;
     margin: auto;
@@ -75,7 +76,7 @@ nav{
 
   .col {
     display: block;
-    z-index: 1;
+    z-index: 1001;
     width: 30px;
     text-align: center;
     height: auto;

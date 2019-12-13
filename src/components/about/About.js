@@ -4,7 +4,7 @@ import ProfilImg from '../../assets/img/chloe-about.jpg';
 import './About.scss';
 
 const About = () => (
-  <div className="about-container">
+  <div className="about-container" id="about">
     <div className="about-photo">
       <div className="about-content">
         <img src={ProfilImg} alt="Chloé Muller" />
