@@ -127,6 +127,17 @@ const Hopital = () => (
           </div>
         </div>
       </div>
+
+      <h1>
+        BILAN
+        <span className="h1-underline" />
+      </h1>
+
+      <p>La principale différence entre les deux stages que j’ai effectués est le public auquel j’ai eu à faire et leurs pathologies et donc la posture que nous avons face à eux. En effet, il faut s’adapter au public en face de soi en tant qu’infirmière et nous n’avons pas la même approche avec une personne de 80 ans en fin de vie qu’avec une personne de 30 ans dépendante aux drogues et à l’alcool. </p>
+
+      <p>Avec une personne âgée, il faut plutôt être dans la douceur et l’accompagnement, on se situe plutôt dans les soins palliatifs, les soins d’hygiène et de bien-être. Nous essayons donc de soulager au mieux la personne pour qu’elle finisse sa vie dans des conditions moins douloureuses. </p>
+
+      <p>Avec un adulte dépendant, il faut plutôt s’attarder sur le côté psychologique, il faut le réhabituer à vivre autrement (sevrage) et l’accompagner dans la construction de nouveaux repères et l’aider à suivre les règles pour s’en sortir et pouvoir rentrer chez lui sans, ou au mieux, avec moins de problèmes d’addictions. </p>
     </div>
   </>
 );
