@@ -16,7 +16,10 @@ const About = () => (
       </div>
     </div>
     <div className="about-description">
-      <h2>Qui suis-je ?</h2>
+      <h2 className="h2-title">
+        <span>QUI </span>
+        SUIS-JE ?
+      </h2>
       <p>Je m’appelle Chloé Muller, j’ai 22 ans et je suis en 3ème année de licence en Sciences de l’Education à Mulhouse. </p>
       <p>
         A travers ce portfolio réflexif, j’espère vous permettre de mieux cerner ma personnalité, mon caractère, mes buts et mes objectifs dans la vie.
