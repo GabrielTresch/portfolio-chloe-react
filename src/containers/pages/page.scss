@@ -15,6 +15,7 @@
   }
   h1{
     position: relative;
+    margin: 40px auto;
     .h1-underline{
       position: absolute;
       width: 150px;
@@ -31,4 +32,36 @@
   p{
     line-height: 25px;
   }
+
+  .page-grid-container{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    margin: 40px auto;
+    .competences-vignette{
+      width: 390px;
+      margin: 5px auto;
+      box-shadow: 0 2px 4px rgba(0,0,0,.5);
+      .competences-title{
+        height: 40px;
+        padding: 10px 3px;
+        display:flex;
+        h2{
+          font-size: 18px;
+          margin:auto;
+          text-align: center;
+          color: var(--dark-pink);
+        }
+      }
+      .competences-description{
+        display: flex;
+        p{
+          padding: 10px 20px;
+          margin: auto;
+          color: var(--grey);
+        }
+      }
+    }
+  }
+
 }

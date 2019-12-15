@@ -1,8 +1,10 @@
+/* eslint-disable react/no-unescaped-entities */
 /* eslint-disable max-len */
 import React from 'react';
 import GoBack from '../../components/history/GoBack';
 import './page.scss';
 import ServiceCiviqueImg from '../../assets/img/primaire.jpg';
+import Pattern from '../../assets/img/greek-vase.png';
 
 const ServiceCivique = () => (
   <>
@@ -29,6 +31,169 @@ const ServiceCivique = () => (
       <p>Une autre difficulté qui est liée, c’est la relation avec les parents. Certains parents sont impliqués dans la scolarité de leur enfant, mais d’autres ne comprennent pas forcément les engagements qu’ils doivent prendre auprès de l’école et de leurs enfants, certains ne comprennent pas toujours notre façon de fonctionner et il faut donc beaucoup communiquer avec eux et leur expliciter les choses. Il y a aussi la difficulté de la langue, j’ai assisté à des situations où un enfant de CP traduisait à ses parents, dans sa langue maternelle, ce que l’enseignant ou la directrice disait.</p>
 
       <p>Cette expérience m’a donc permis de voir toutes les facettes du métier pendant 6 mois. Chaque jour était différent et impliquait des choses diverses et variées. Les journées n’étaient pas tous les jours faciles et pouvaient être très fatigantes. Ce métier implique un très grand engagement que ce soit auprès des élèves, des familles, des collègues et de soi-même. Néanmoins, malgré les grandes responsabilités de ce métier, nous réalisons de grandes choses, nous accompagnons des élèves dans le début de leur vie, nous sommes la personne qui leur apprend les bases du français, des mathématiques, des savoirs vivre, des savoirs être, nous leur véhiculons des valeurs etc. Nous les aidons dans la construction de leur personnalité et de leur vie. Nous apprenons des choses aux élèves certes, mais ils nous apprennent aussi des choses en retour. C’est une vraie relation de partage et de confiance qui se met en place, et quand elle fonctionne bien, nous pouvons réaliser de beaux projets. </p>
+
+      <h1>
+        <span className="h1-light">COMPÉTENCES </span>
+        DIRECTES
+        <span className="h1-underline" />
+      </h1>
+
+      <div className="page-grid-container">
+        <div className="competences-vignette">
+          <div className="competences-title" style={{ backgroundImage: `url(${Pattern})` }}>
+            <h2>
+              Compétences relatives
+              aux éléments réglementaires
+              et institutionnels
+            </h2>
+          </div>
+          <div className="competences-description">
+            <p>
+            Connaître le système éducatif et son organisation ; connaître le cadre réglementaire de l'École et les règles de l'établissement scolaire, les droits et obligations des fonctionnaires ainsi que les statuts des professeurs et des personnels d'éducation ; répondre aux exigences de ponctualité d’assiduité, de sécurité et de confidentialité ; adopter une attitude et un positionnement d’adulte référent au sein de la classe ; connaître et contribuer à faire respecter le règlement intérieur.
+            </p>
+          </div>
+        </div>
+        <div className="competences-vignette">
+          <div className="competences-title" style={{ backgroundImage: `url(${Pattern})` }}>
+            <h2>
+              Compétences relatives
+              à la maîtrise des
+              contenus disciplinaires
+            </h2>
+          </div>
+          <div className="competences-description">
+            <p>
+            connaître le mieux possible et se souvenir des différents savoirs de niveau primaire dans toutes les matières pour pouvoir aider les élèves et répondre à leurs questions ; identifier les contenus disciplinaires ; identifier les savoirs et savoir-faire à acquérir par les élèves en lien avec les programmes.
+            </p>
+          </div>
+        </div>
+        <div className="competences-vignette">
+          <div className="competences-title" style={{ backgroundImage: `url(${Pattern})` }}>
+            <h2>Compétences comportementales</h2>
+          </div>
+          <div className="competences-description">
+            <p>
+            Adaptation : savoir s’adapter à la diversité des élèves (niveau scolaire, origines sociales, handicap, etc) Adapter son comportement et son langage aux différents élèves en fonction de leurs personnalités, leurs difficultés, leur concentration etc ; adapter le niveau d’autorité à la situation.
+
+            </p>
+          </div>
+        </div>
+        <div className="competences-vignette">
+          <div className="competences-title" style={{ backgroundImage: `url(${Pattern})` }}>
+            <h2>Compétences d’analyse</h2>
+          </div>
+          <div className="competences-description">
+            <p>
+            observer les élèves en activité et proposer une aide adaptée ou un prolongement de l’activité selon les besoins ; analyser les démarches d’apprentissage ; faire preuve de vigilance à l’égard des comportements inadaptés
+            </p>
+          </div>
+        </div>
+        <div className="competences-vignette">
+          <div className="competences-title" style={{ backgroundImage: `url(${Pattern})` }}>
+            <h2>Compétences relationnelles</h2>
+          </div>
+          <div className="competences-description">
+            <p>
+            Savoir travailler en équipe et prendre en compte les différents points de vue : assister à différents conseils (conseil des maîtres, conseil de cycle, conseil de classe, conseil pédagogique, etc.) ; savoir communiquer avec les différents interlocuteurs ayant différents statuts : les élèves/enfants, les familles et les collègues et les partenaires de la communauté éducative (Médiathèque…) ; adopter une attitude favorable à l’écoute et aux échanges ; encourager et valoriser les élèves ; prendre en compte les conseils donnés par les professionnels.
+            </p>
+          </div>
+        </div>
+        <div className="competences-vignette">
+          <div className="competences-title" style={{ backgroundImage: `url(${Pattern})` }}>
+            <h2>Compétences organisationnelles</h2>
+          </div>
+          <div className="competences-description">
+            <p>
+            Participer à l’élaboration du projet d’école de l’établissement ; savoir gérer son temps et se répartir entre les différentes classes selon les différents besoins des enseignants/élèves. Anticiper et préparer ses interventions.
+            </p>
+          </div>
+        </div>
+        <div className="competences-vignette">
+          <div className="competences-title" style={{ backgroundImage: `url(${Pattern})` }}>
+            <h2>Compétences de transmission</h2>
+          </div>
+          <div className="competences-description">
+            <p>
+            savoir écouter les élèves et transmettre des informations aux élèves; savoir aider les élèves à développer leur esprit critique, à savoir argumenter et à respecter la pensée des autres.
+            </p>
+          </div>
+        </div>
+      </div>
+      <h1>
+        <span className="h1-light">COMPÉTENCES </span>
+        INDIRECTES
+        <span className="h1-underline" />
+      </h1>
+
+      <div className="page-grid-container">
+        <div className="competences-vignette">
+          <div className="competences-title" style={{ backgroundImage: `url(${Pattern})` }}>
+            <h2>
+              Compétences relatives à la prise
+              en compte des éléments
+              réglementaires et institutionnels
+            </h2>
+          </div>
+          <div className="competences-description">
+            <p>
+            respecter les principes d’égalité, de neutralité, de laïcité, de tolérance, de refus de toutes discriminations, respecter les élèves et les adultes.
+            </p>
+          </div>
+        </div>
+        <div className="competences-vignette">
+          <div className="competences-title" style={{ backgroundImage: `url(${Pattern})` }}>
+            <h2>
+              Compétences au niveau
+              de la mémoire
+            </h2>
+          </div>
+          <div className="competences-description">
+            <p>
+            connaître les prénoms de de tous élèves de l’école, les adultes et leurs missions pour pouvoir interagir.  Connaître les élèves, leur histoire en partie, pour mieux appréhender leurs comportements et leurs personnalités et pouvoir travailler efficacement avec eux.
+            </p>
+          </div>
+        </div>
+        <div className="competences-vignette">
+          <div className="competences-title" style={{ backgroundImage: `url(${Pattern})` }}>
+            <h2>Compétences relationnelles</h2>
+          </div>
+          <div className="competences-description">
+            <p>
+            maîtriser la langue française à des fins de communication ; savoir mettre en place une relation de confiance avec les élèves, les parents et les collègues ; savoir se positionner par rapport aux élèves car j’étais dans une position délicate : stagiaire en service civique donc ni une enseignante, ni une grande sœur, ni une amie, j’ai dû trouver un juste milieu pour paraître légitime aux yeux des élèves et donc savoir me faire respecter.
+            </p>
+          </div>
+        </div>
+        <div className="competences-vignette">
+          <div className="competences-title" style={{ backgroundImage: `url(${Pattern})` }}>
+            <h2>Compétences d’analyse</h2>
+          </div>
+          <div className="competences-description">
+            <p>
+            Observation : savoir observer les élèves subissant des moqueries, du harcèlement ou de l’exclusion de la part des autres élèves ; savoir accepter quand nous avons parfois besoin d’aide de la part d’un enseignant ou d’un autre professionnel de l’établissement.
+            </p>
+          </div>
+        </div>
+        <div className="competences-vignette">
+          <div className="competences-title" style={{ backgroundImage: `url(${Pattern})` }}>
+            <h2>Compétences comportementales</h2>
+          </div>
+          <div className="competences-description">
+            <p>
+            Adaptation : savoir m’adapter aux différents élèves, aux différents niveaux en une même journée, aux différents professeurs ayant chacun des manières de faire et de voir les choses différentes, mais aussi savoir s’adapter aux différentes organisations et donc aux différentes classes ; savoir prendre sur soi dans des moments qui nous touchent ou nous révoltent comme le fait qu’un parent rejette son enfant etc, donc savoir rester professionnelle ; savoir agir, réagir  et intervenir en toutes situations, même les plus difficiles : élèves en crise, élèves qui tapent les enseignants, élèves qui se frappent violemment entre eux etc ; faire preuve de vigilance à l’égard des comportements inadaptés
+            </p>
+          </div>
+        </div>
+        <div className="competences-vignette">
+          <div className="competences-title" style={{ backgroundImage: `url(${Pattern})` }}>
+            <h2>Compétences organisationnelles</h2>
+          </div>
+          <div className="competences-description">
+            <p>
+            savoir gérer son temps pour réaliser les tâches demandées dans le temps imparti.
+            </p>
+          </div>
+        </div>
+      </div>
     </div>
   </>
 );
