@@ -20,7 +20,7 @@ const About = () => (
         <span>QUI </span>
         SUIS-JE ?
       </h2>
-      <p>Je m’appelle Chloé Muller, j’ai 22 ans et je suis en 3ème année de licence en Sciences de l’Education à Mulhouse. </p>
+      <p>Je m’appelle Chloé Muller, j’ai 22 ans et je suis en 3ème année de licence en Sciences de l’Education. </p>
       <p>
         A travers ce portfolio réflexif, j’espère vous permettre de mieux cerner ma personnalité, mon caractère, mes buts et mes objectifs dans la vie.
       </p>

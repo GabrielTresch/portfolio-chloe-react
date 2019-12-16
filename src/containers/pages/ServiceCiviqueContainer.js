@@ -26,11 +26,11 @@ const ServiceCivique = () => (
       Bien sûr, j’ai vu les aspects positifs du métier, mais j’ai aussi vu et vécu toutes les difficultés auxquelles nous pouvons être confrontés en tant que professeur des écoles. Ce n’était pas tous les jours facile, c’est un métier très fatigant et prenant. Au départ, ce qui me faisait le plus peur c’était le côté autorité. En effet, j’avais peur de ne pas réussir à gérer et tenir un groupe classe. J’ai eu de nombreuses occasions d’expérimenter mon autorité mais aussi de voir comment faisaient les autres professeurs, j’ai observé ce qui fonctionnait avec les élèves et ce qui ne fonctionnait pas. J’ai par exemple remarqué que le fait de crier ne servait strictement à rien, qu’il fallait plutôt miser sur le ton sec et le regard pour être dissuasif auprès des élèves inattentifs et bruyants. De plus, le fait de donner une punition écrite ne fonctionnait pas forcément non plus, il fallait plutôt pencher pour une punition qui a du sens pour l’élève, le priver de quelque chose qu’il aime bien faire par exemple d’un « métier de classe ». En effet, les élèves avaient différents « métiers » dans la classe, ils pouvaient être « facteurs », c’est-à-dire qu’ils allaient déposer des papiers dans d’autres classes, faire passer des messages à d’autres enseignants etc, il y avait aussi les « distributeurs » qui distribuaient toutes les feuilles en classe etc. Le fait d’empêcher un élève de faire son « métier » et d’en envoyer un autre à sa place le touchait souvent beaucoup et il comprenait alors que s’il ne faisait pas d’efforts il risquait de perdre complètement son « métier ». Certaines techniques fonctionnaient vraiment bien et d’autres moins, j’ai donc appris à m’adapter aux différentes situations. L’autorité se passait plutôt bien dans l’ensemble, ce que j’appréhendais le plus se passait finalement bien sur le terrain et la directrice m’a même dit que j’avais une main de fer dans un gant de velours, que je disais les bonnes remarques au bon moment en étant crédible auprès des élèves tout en gardant ma douceur. J’ai toujours réussi à me faire écouter et à avoir une ambiance de classe plutôt correcte. J’ai quand même eu quelques moments où j’ai dû demander l’aide d’un autre enseignant avec certains élèves très difficiles. Je pense que dans ce métier, il ne faut pas hésiter à demander de l’aide, des avis ou conseils à ses collègues. J’ai eu la chance d’avoir une équipe à mon écoute et ça m’a permis de me surpasser dans mes objectifs, mais aussi de voir certaines situations parfois différemment.
       </p>
 
-      <p>Ce qui a été le plus dur pour moi c’est d’être face à des élèves en grande souffrance psychologique, ayant vécu des drames et des épreuves très douloureuses pour leur âge. Ces élèves répercutent leur souffrance ou leur mal être à l’école, en classe, dans leur comportement avec les autres etc. J’ai vu la réalité du terrain, le fait de devoir gérer des élèves en crise, qui tapaient la directrice, qui avaient une telle souffrance psychologique et un tel mal être. Quand nous connaissons nos élèves, nous comprenons pourquoi ils réagissent de certaines manières. J’ai été face à des situations très difficiles, des enfants ayant des parents toxicomanes qui ne s’occupaient pas d’eux, étant placés en famille d’accueil, ayant vécu des violences familiales etc. Ces élèves et ces situations sont les plus durs à gérer selon moi. Ce qui est parfois difficile c’est qu’en tant qu’enseignant nous devons un peu jouer le rôle de « psychologue » ou de « médiateur » par exemple, c’est parfois difficile de savoir où s’arrête son rôle d’enseignant et son devoir dans certains cas. J’ai été dans des situations qui me tenaient à cœur, qui me touchaient profondément ou encore qui me révoltaient. Mais il faut rester professionnel et encore une fois c’est là que le fait d’échanger avec les collègues, aide à gérer certaines situations difficiles. </p>
+      <p>Ce qui a été le plus dur pour moi c’est d’être face à des élèves en grande souffrance psychologique, ayant vécu des drames et des épreuves très douloureuses pour leur âge. Ces élèves répercutent leur souffrance ou leur mal être à l’école, en classe, dans leur comportement avec les autres etc. J’ai vu la réalité du terrain, le fait de devoir gérer des élèves en crise, qui tapaient la directrice, qui avaient une telle souffrance psychologique et un tel mal être. Quand nous connaissons nos élèves, nous comprenons pourquoi ils réagissent de certaines manières. J’ai été face à des situations très difficiles, des enfants ayant des parents toxicomanes qui ne s’occupaient pas d’eux, étant placés en famille d’accueil, ayant vécu des violences familiales etc. Ces élèves et ces situations sont les plus durs à gérer selon moi. Ce qui est parfois difficile c’est qu’en tant qu’enseignant nous devons un peu jouer le rôle de « psychologue » ou de « médiateur » par exemple, c’est parfois difficile de savoir où s’arrête son rôle d’enseignant et son devoir dans certains cas. J’ai été dans des situations qui me tenaient à cœur, qui me touchaient profondément ou encore qui me révoltaient. Mais il faut rester professionnel et encore une fois c’est là que le fait d’échanger avec les collègues, aide à gérer certaines situations difficiles.</p>
 
       <p>Une autre difficulté qui est liée, c’est la relation avec les parents. Certains parents sont impliqués dans la scolarité de leur enfant, mais d’autres ne comprennent pas forcément les engagements qu’ils doivent prendre auprès de l’école et de leurs enfants, certains ne comprennent pas toujours notre façon de fonctionner et il faut donc beaucoup communiquer avec eux et leur expliciter les choses. Il y a aussi la difficulté de la langue, j’ai assisté à des situations où un enfant de CP traduisait à ses parents, dans sa langue maternelle, ce que l’enseignant ou la directrice disait.</p>
 
-      <p>Cette expérience m’a donc permis de voir toutes les facettes du métier pendant 6 mois. Chaque jour était différent et impliquait des choses diverses et variées. Les journées n’étaient pas tous les jours faciles et pouvaient être très fatigantes. Ce métier implique un très grand engagement que ce soit auprès des élèves, des familles, des collègues et de soi-même. Néanmoins, malgré les grandes responsabilités de ce métier, nous réalisons de grandes choses, nous accompagnons des élèves dans le début de leur vie, nous sommes la personne qui leur apprend les bases du français, des mathématiques, des savoirs vivre, des savoirs être, nous leur véhiculons des valeurs etc. Nous les aidons dans la construction de leur personnalité et de leur vie. Nous apprenons des choses aux élèves certes, mais ils nous apprennent aussi des choses en retour. C’est une vraie relation de partage et de confiance qui se met en place, et quand elle fonctionne bien, nous pouvons réaliser de beaux projets. </p>
+      <p>Cette expérience m’a donc permis de voir toutes les facettes du métier pendant 6 mois. Chaque jour était différent et impliquait des choses diverses et variées. Les journées n’étaient pas tous les jours faciles et pouvaient être très fatigantes. Ce métier implique un très grand engagement que ce soit auprès des élèves, des familles, des collègues et de soi-même. Néanmoins, malgré les grandes responsabilités de ce métier, nous réalisons de grandes choses, nous accompagnons des élèves dans le début de leur vie, nous sommes la personne qui leur apprend les bases du français, des mathématiques, des savoirs vivre, des savoirs être, nous leur véhiculons des valeurs etc. Nous les aidons dans la construction de leur personnalité et de leur vie. Nous apprenons des choses aux élèves certes, mais ils nous apprennent aussi des choses en retour. C’est une vraie relation de partage et de confiance qui se met en place, et quand elle fonctionne bien, nous pouvons réaliser de beaux projets.</p>
 
       <h1>
         <span className="h1-light">COMPÉTENCES </span>
@@ -63,7 +63,7 @@ const ServiceCivique = () => (
           </div>
           <div className="competences-description">
             <p>
-            connaître le mieux possible et se souvenir des différents savoirs de niveau primaire dans toutes les matières pour pouvoir aider les élèves et répondre à leurs questions ; identifier les contenus disciplinaires ; identifier les savoirs et savoir-faire à acquérir par les élèves en lien avec les programmes.
+            Connaître le mieux possible et se souvenir des différents savoirs de niveau primaire dans toutes les matières pour pouvoir aider les élèves et répondre à leurs questions ; identifier les contenus disciplinaires ; identifier les savoirs et savoir-faire à acquérir par les élèves en lien avec les programmes.
             </p>
           </div>
         </div>
@@ -73,8 +73,7 @@ const ServiceCivique = () => (
           </div>
           <div className="competences-description">
             <p>
-            Adaptation : savoir s’adapter à la diversité des élèves (niveau scolaire, origines sociales, handicap, etc) Adapter son comportement et son langage aux différents élèves en fonction de leurs personnalités, leurs difficultés, leur concentration etc ; adapter le niveau d’autorité à la situation.
-
+            Adaptation : savoir s’adapter à la diversité des élèves (niveau scolaire, origines sociales, handicap, etc) ; adapter son comportement et son langage aux différents élèves en fonction de leurs personnalités, leurs difficultés, leur concentration etc ; adapter le niveau d’autorité à la situation.
             </p>
           </div>
         </div>
@@ -84,7 +83,7 @@ const ServiceCivique = () => (
           </div>
           <div className="competences-description">
             <p>
-            observer les élèves en activité et proposer une aide adaptée ou un prolongement de l’activité selon les besoins ; analyser les démarches d’apprentissage ; faire preuve de vigilance à l’égard des comportements inadaptés
+            Observer les élèves en activité et proposer une aide adaptée ou un prolongement de l’activité selon les besoins ; analyser les démarches d’apprentissage ; faire preuve de vigilance à l’égard des comportements inadaptés.
             </p>
           </div>
         </div>
@@ -94,7 +93,7 @@ const ServiceCivique = () => (
           </div>
           <div className="competences-description">
             <p>
-            Savoir travailler en équipe et prendre en compte les différents points de vue : assister à différents conseils (conseil des maîtres, conseil de cycle, conseil de classe, conseil pédagogique, etc.) ; savoir communiquer avec les différents interlocuteurs ayant différents statuts : les élèves/enfants, les familles et les collègues et les partenaires de la communauté éducative (Médiathèque…) ; adopter une attitude favorable à l’écoute et aux échanges ; encourager et valoriser les élèves ; prendre en compte les conseils donnés par les professionnels.
+            Savoir travailler en équipe et prendre en compte les différents points de vue : assister à différents conseils (conseil des maîtres, conseil de cycle, conseil de classe, conseil pédagogique, etc.) ; savoir communiquer avec les différents interlocuteurs ayant différents statuts : les élèves/enfants, les familles, les collègues et les partenaires de la communauté éducative (Médiathèque…) ; adopter une attitude favorable à l’écoute et aux échanges ; encourager et valoriser les élèves ; prendre en compte les conseils donnés par les professionnels.
             </p>
           </div>
         </div>
@@ -104,7 +103,7 @@ const ServiceCivique = () => (
           </div>
           <div className="competences-description">
             <p>
-            Participer à l’élaboration du projet d’école de l’établissement ; savoir gérer son temps et se répartir entre les différentes classes selon les différents besoins des enseignants/élèves. Anticiper et préparer ses interventions.
+            Participer à l’élaboration du projet d’école de l’établissement ; savoir gérer son temps et se répartir entre les différentes classes selon les différents besoins des enseignants/élèves ; anticiper et préparer ses interventions.
             </p>
           </div>
         </div>
@@ -114,7 +113,7 @@ const ServiceCivique = () => (
           </div>
           <div className="competences-description">
             <p>
-            savoir écouter les élèves et transmettre des informations aux élèves; savoir aider les élèves à développer leur esprit critique, à savoir argumenter et à respecter la pensée des autres.
+            Savoir écouter les élèves et transmettre des informations aux élèves ; savoir aider les élèves à développer leur esprit critique, à savoir argumenter et à respecter la pensée des autres.
             </p>
           </div>
         </div>
@@ -136,7 +135,7 @@ const ServiceCivique = () => (
           </div>
           <div className="competences-description">
             <p>
-            respecter les principes d’égalité, de neutralité, de laïcité, de tolérance, de refus de toutes discriminations, respecter les élèves et les adultes.
+            Respecter les principes d’égalité, de neutralité, de laïcité, de tolérance, de refus de toutes discriminations, respecter les élèves et les adultes.
             </p>
           </div>
         </div>
@@ -149,7 +148,7 @@ const ServiceCivique = () => (
           </div>
           <div className="competences-description">
             <p>
-            connaître les prénoms de de tous élèves de l’école, les adultes et leurs missions pour pouvoir interagir.  Connaître les élèves, leur histoire en partie, pour mieux appréhender leurs comportements et leurs personnalités et pouvoir travailler efficacement avec eux.
+            Connaître les prénoms de tous les élèves de l’école, les adultes et leurs missions pour pouvoir interagir ; connaître les élèves, leur histoire en partie, pour mieux appréhender leurs comportements et leurs personnalités et pouvoir travailler efficacement avec eux.
             </p>
           </div>
         </div>
@@ -159,7 +158,7 @@ const ServiceCivique = () => (
           </div>
           <div className="competences-description">
             <p>
-            maîtriser la langue française à des fins de communication ; savoir mettre en place une relation de confiance avec les élèves, les parents et les collègues ; savoir se positionner par rapport aux élèves car j’étais dans une position délicate : stagiaire en service civique donc ni une enseignante, ni une grande sœur, ni une amie, j’ai dû trouver un juste milieu pour paraître légitime aux yeux des élèves et donc savoir me faire respecter.
+            Maîtriser la langue française à des fins de communication ; savoir mettre en place une relation de confiance avec les élèves, les parents et les collègues ; savoir se positionner par rapport aux élèves car j’étais dans une position délicate : stagiaire en service civique donc ni une enseignante, ni une grande sœur, ni une amie, j’ai dû trouver un juste milieu pour paraître légitime aux yeux des élèves et donc savoir me faire respecter.
             </p>
           </div>
         </div>
@@ -179,7 +178,7 @@ const ServiceCivique = () => (
           </div>
           <div className="competences-description">
             <p>
-            Adaptation : savoir m’adapter aux différents élèves, aux différents niveaux en une même journée, aux différents professeurs ayant chacun des manières de faire et de voir les choses différentes, mais aussi savoir s’adapter aux différentes organisations et donc aux différentes classes ; savoir prendre sur soi dans des moments qui nous touchent ou nous révoltent comme le fait qu’un parent rejette son enfant etc, donc savoir rester professionnelle ; savoir agir, réagir  et intervenir en toutes situations, même les plus difficiles : élèves en crise, élèves qui tapent les enseignants, élèves qui se frappent violemment entre eux etc ; faire preuve de vigilance à l’égard des comportements inadaptés
+            Adaptation : savoir m’adapter aux différents élèves, aux différents niveaux en une même journée, aux différents professeurs ayant chacun des manières de faire et de voir les choses différentes, mais aussi savoir s’adapter aux différentes organisations et donc aux différentes classes ; savoir prendre sur soi dans des moments qui nous touchent ou nous révoltent comme le fait qu’un parent rejette son enfant etc, donc savoir rester professionnelle ; savoir agir, réagir  et intervenir en toutes situations, même les plus difficiles : élèves en crise, élèves qui tapent les enseignants, élèves qui se frappent violemment entre eux etc ; faire preuve de vigilance à l’égard des comportements inadaptés.
             </p>
           </div>
         </div>
@@ -189,7 +188,7 @@ const ServiceCivique = () => (
           </div>
           <div className="competences-description">
             <p>
-            savoir gérer son temps pour réaliser les tâches demandées dans le temps imparti.
+            Savoir gérer son temps pour réaliser les tâches demandées dans le temps imparti.
             </p>
           </div>
         </div>

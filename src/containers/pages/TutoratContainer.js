@@ -32,7 +32,7 @@ const Tutorat = () => (
           </div>
           <div className="competences-description">
             <p>
-            Savoir accueillir un public d’étudiant, savoir communiquer avec les étudiants ; adopter une attitude favorable à l’écoute et aux échanges ; encourager et rassurer les étudiants ; savoir animer un groupe d’étudiants et entretenir une dynamique de groupe ; prendre en compte les conseils donnés par le professeur référent de l’organisation des cours de tutorat et les conseils donnés lors de la formation.
+            Savoir accueillir un public d’étudiants, savoir communiquer avec les étudiants ; adopter une attitude favorable à l’écoute et aux échanges ; encourager et rassurer les étudiants ; savoir animer un groupe d’étudiants et entretenir une dynamique de groupe ; prendre en compte les conseils donnés par le professeur référent de l’organisation des cours de tutorat et les conseils donnés lors de la formation.
             </p>
           </div>
         </div>
@@ -80,7 +80,7 @@ const Tutorat = () => (
           </div>
           <div className="competences-description">
             <p>
-            Savoir mettre en place une relation de confiance avec les étudiants tutorés.
+            Savoir mettre en place une relation de confiance avec les étudiants tuteurés.
             </p>
           </div>
         </div>

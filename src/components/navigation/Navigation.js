@@ -21,7 +21,7 @@ const Navigation = () => {
           <a href="#about" className="logo"><img src={Logo} alt="logo chloé muller" /></a>
           <a href="#about">À PROPOS</a>
           <a href="#works">EXPÉRIENCES PROFESSIONNELLES</a>
-          <a href="#competences">COMPETENCES</a>
+          <a href="#competences">LIEN AVEC LE MÉTIER</a>
         </div>
       </nav>
     </>

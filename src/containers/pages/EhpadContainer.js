@@ -16,7 +16,7 @@ const Ehpad = () => (
         EHPAD
         <span className="h1-underline" />
       </h1>
-      <p>Au début de mes études je m’étais lancée dans le domaine paramédical dans le but de devenir infirmière puéricultrice. J’ai donc eu l’occasion de faire des stages marquants pour moi, et qui, je pense, ont forgé ma personnalité et m’ont aussi ouverts les yeux sur ce que je voulais faire dans ma vie mais aussi quelle posture professionnelle je voulais adopter. Au début des études, nous ne pouvons pas encore nous spécialiser avec les enfants, j’ai ainsi fait mes 2 stages avec des personnes âgées et des adultes. </p>
+      <p>Au début de mes études je m’étais lancée dans le domaine paramédical dans le but de devenir infirmière puéricultrice. J’ai donc eu l’occasion de faire des stages marquants pour moi, et qui, je pense, ont forgé ma personnalité et m’ont aussi ouvert les yeux sur ce que je voulais faire dans ma vie mais aussi quelle posture professionnelle je voulais adopter. Au début des études, nous ne pouvons pas encore nous spécialiser avec les enfants, j’ai ainsi fait mes 2 stages avec des personnes âgées et des adultes. </p>
 
       <p>Le premier, durant mon année de préparation aux concours s’est déroulé dans un EHPAD (Établissement d’Hébergement pour Personnes Agées Dépendantes). Ce stage devait être une première observation en milieu professionnel, nous devions observer et comprendre les tâches quotidiennes du métier, les situations potentielles que nous pouvions rencontrer, le public avec lequel nous serons amenés à travailler et les personnels avec lesquels nous devions collaborer.</p>
 
@@ -93,7 +93,7 @@ const Ehpad = () => (
             <h2>Compétences relationnelles</h2>
           </div>
           <div className="competences-description">
-            <p>savoir communiquer avec tous les patients : patients qui ne parlent pas bien français, patients qui ne peuvent plus parler dû à leur état de santé etc ; savoir rassurer les patients </p>
+            <p>savoir communiquer avec tous les patients : patients qui ne parlent pas bien français, patients qui ne peuvent plus parler dû à leur état de santé etc ; savoir rassurer les patients.</p>
           </div>
         </div>
         <div className="competences-vignette">
@@ -112,7 +112,7 @@ const Ehpad = () => (
           </div>
           <div className="competences-description">
             <p>
-            Savoir faire des liens entre les différents signes observés/constatés ; savoir analyser les situations; savoir être attentif ; savoir réagir aux urgences.
+            Savoir faire des liens entre les différents signes observés/constatés ; savoir analyser les situations ; savoir être attentif ; savoir réagir aux urgences.
             </p>
           </div>
         </div>
@@ -122,7 +122,7 @@ const Ehpad = () => (
           </div>
           <div className="competences-description">
             <p>
-            Savoir gérer son temps
+            Savoir gérer son temps.
             </p>
           </div>
         </div>
